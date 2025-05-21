@@ -14,6 +14,36 @@
 		89D214822DDA1B8800C36D74 /* YandMiosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214812DDA1B8800C36D74 /* YandMiosTests.swift */; };
 		89D2148C2DDA1B8800C36D74 /* YandMiosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D2148B2DDA1B8800C36D74 /* YandMiosUITests.swift */; };
 		89D2148E2DDA1B8800C36D74 /* YandMiosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D2148D2DDA1B8800C36D74 /* YandMiosUITestsLaunchTests.swift */; };
+		89D214D92DDCF1CA00C36D74 /* BloodPressureView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214D82DDCF1CA00C36D74 /* BloodPressureView1.swift */; };
+		89D214DB2DDCF23B00C36D74 /* BloodPressureView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214DA2DDCF23B00C36D74 /* BloodPressureView2.swift */; };
+		89D214DD2DDCF2AF00C36D74 /* BodyTempView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214DC2DDCF2AF00C36D74 /* BodyTempView1.swift */; };
+		89D214DF2DDCF2F800C36D74 /* BodyTempView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214DE2DDCF2F800C36D74 /* BodyTempView2.swift */; };
+		89D214E12DDCF57F00C36D74 /* BodyWeightView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214E02DDCF57F00C36D74 /* BodyWeightView1.swift */; };
+		89D214E32DDCF5CC00C36D74 /* BodyWeightView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214E22DDCF5CC00C36D74 /* BodyWeightView2.swift */; };
+		89D214E52DDCF69500C36D74 /* FillingInformationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214E42DDCF69500C36D74 /* FillingInformationView1.swift */; };
+		89D214E72DDCF6EC00C36D74 /* FirebaseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214E62DDCF6EC00C36D74 /* FirebaseCode.swift */; };
+		89D214E92DDCF72A00C36D74 /* Frame21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214E82DDCF72A00C36D74 /* Frame21.swift */; };
+		89D214EB2DDCF75C00C36D74 /* Frame22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214EA2DDCF75C00C36D74 /* Frame22.swift */; };
+		89D214ED2DDCF79200C36D74 /* Frame23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214EC2DDCF79200C36D74 /* Frame23.swift */; };
+		89D214EF2DDCF7D100C36D74 /* Frame24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214EE2DDCF7D100C36D74 /* Frame24.swift */; };
+		89D214F12DDCF80F00C36D74 /* Frame25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214F02DDCF80F00C36D74 /* Frame25.swift */; };
+		89D214F32DDCF83800C36D74 /* Frame26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214F22DDCF83800C36D74 /* Frame26.swift */; };
+		89D214F52DDCF8A300C36D74 /* Generalinformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214F42DDCF8A300C36D74 /* Generalinformation.swift */; };
+		89D214F72DDCF8E000C36D74 /* LinkListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214F62DDCF8E000C36D74 /* LinkListView.swift */; };
+		89D214F92DDCF92800C36D74 /* LinkListView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214F82DDCF92800C36D74 /* LinkListView2.swift */; };
+		89D214FB2DDCF95800C36D74 /* LinkListView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214FA2DDCF95800C36D74 /* LinkListView3.swift */; };
+		89D214FD2DDCF99F00C36D74 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D214FC2DDCF99F00C36D74 /* LogInView.swift */; };
+		89D215012DDCFA8800C36D74 /* OxygenPulseIView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215002DDCFA8800C36D74 /* OxygenPulseIView1.swift */; };
+		89D215032DDCFAC400C36D74 /* OxygenPulseView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215022DDCFAC400C36D74 /* OxygenPulseView2.swift */; };
+		89D215052DDCFB5D00C36D74 /* RecommendationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215042DDCFB5D00C36D74 /* RecommendationsView.swift */; };
+		89D215072DDCFBA500C36D74 /* RecommendationsView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215062DDCFBA500C36D74 /* RecommendationsView1.swift */; };
+		89D215092DDCFBE300C36D74 /* RecommendationsView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215082DDCFBE300C36D74 /* RecommendationsView2.swift */; };
+		89D2150D2DDCFC7500C36D74 /* RecommendationsView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D2150C2DDCFC7500C36D74 /* RecommendationsView3.swift */; };
+		89D2150F2DDCFCB600C36D74 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D2150E2DDCFCB600C36D74 /* RegistrationView.swift */; };
+		89D215112DDCFD2F00C36D74 /* StartPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215102DDCFD2F00C36D74 /* StartPageView.swift */; };
+		89D215132DDCFD7000C36D74 /* SurveyView12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215122DDCFD7000C36D74 /* SurveyView12.swift */; };
+		89D215152DDCFDDB00C36D74 /* Survey3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215142DDCFDDB00C36D74 /* Survey3.swift */; };
+		89D215172DDCFE3900C36D74 /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D215162DDCFE3900C36D74 /* WelcomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +74,36 @@
 		89D214872DDA1B8800C36D74 /* YandMiosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YandMiosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89D2148B2DDA1B8800C36D74 /* YandMiosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YandMiosUITests.swift; sourceTree = "<group>"; };
 		89D2148D2DDA1B8800C36D74 /* YandMiosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YandMiosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		89D214D82DDCF1CA00C36D74 /* BloodPressureView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BloodPressureView1.swift; sourceTree = "<group>"; };
+		89D214DA2DDCF23B00C36D74 /* BloodPressureView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BloodPressureView2.swift; sourceTree = "<group>"; };
+		89D214DC2DDCF2AF00C36D74 /* BodyTempView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyTempView1.swift; sourceTree = "<group>"; };
+		89D214DE2DDCF2F800C36D74 /* BodyTempView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyTempView2.swift; sourceTree = "<group>"; };
+		89D214E02DDCF57F00C36D74 /* BodyWeightView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyWeightView1.swift; sourceTree = "<group>"; };
+		89D214E22DDCF5CC00C36D74 /* BodyWeightView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyWeightView2.swift; sourceTree = "<group>"; };
+		89D214E42DDCF69500C36D74 /* FillingInformationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillingInformationView1.swift; sourceTree = "<group>"; };
+		89D214E62DDCF6EC00C36D74 /* FirebaseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseCode.swift; sourceTree = "<group>"; };
+		89D214E82DDCF72A00C36D74 /* Frame21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame21.swift; sourceTree = "<group>"; };
+		89D214EA2DDCF75C00C36D74 /* Frame22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame22.swift; sourceTree = "<group>"; };
+		89D214EC2DDCF79200C36D74 /* Frame23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame23.swift; sourceTree = "<group>"; };
+		89D214EE2DDCF7D100C36D74 /* Frame24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame24.swift; sourceTree = "<group>"; };
+		89D214F02DDCF80F00C36D74 /* Frame25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame25.swift; sourceTree = "<group>"; };
+		89D214F22DDCF83800C36D74 /* Frame26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame26.swift; sourceTree = "<group>"; };
+		89D214F42DDCF8A300C36D74 /* Generalinformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generalinformation.swift; sourceTree = "<group>"; };
+		89D214F62DDCF8E000C36D74 /* LinkListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkListView.swift; sourceTree = "<group>"; };
+		89D214F82DDCF92800C36D74 /* LinkListView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkListView2.swift; sourceTree = "<group>"; };
+		89D214FA2DDCF95800C36D74 /* LinkListView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkListView3.swift; sourceTree = "<group>"; };
+		89D214FC2DDCF99F00C36D74 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
+		89D215002DDCFA8800C36D74 /* OxygenPulseIView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OxygenPulseIView1.swift; sourceTree = "<group>"; };
+		89D215022DDCFAC400C36D74 /* OxygenPulseView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OxygenPulseView2.swift; sourceTree = "<group>"; };
+		89D215042DDCFB5D00C36D74 /* RecommendationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationsView.swift; sourceTree = "<group>"; };
+		89D215062DDCFBA500C36D74 /* RecommendationsView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationsView1.swift; sourceTree = "<group>"; };
+		89D215082DDCFBE300C36D74 /* RecommendationsView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationsView2.swift; sourceTree = "<group>"; };
+		89D2150C2DDCFC7500C36D74 /* RecommendationsView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationsView3.swift; sourceTree = "<group>"; };
+		89D2150E2DDCFCB600C36D74 /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
+		89D215102DDCFD2F00C36D74 /* StartPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPageView.swift; sourceTree = "<group>"; };
+		89D215122DDCFD7000C36D74 /* SurveyView12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurveyView12.swift; sourceTree = "<group>"; };
+		89D215142DDCFDDB00C36D74 /* Survey3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Survey3.swift; sourceTree = "<group>"; };
+		89D215162DDCFE3900C36D74 /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,8 +156,38 @@
 			children = (
 				89D214702DDA1B8500C36D74 /* YandMiosApp.swift */,
 				89D214722DDA1B8500C36D74 /* ContentView.swift */,
+				89D214E42DDCF69500C36D74 /* FillingInformationView1.swift */,
+				89D214E62DDCF6EC00C36D74 /* FirebaseCode.swift */,
+				89D214E82DDCF72A00C36D74 /* Frame21.swift */,
+				89D214EA2DDCF75C00C36D74 /* Frame22.swift */,
+				89D214EC2DDCF79200C36D74 /* Frame23.swift */,
+				89D214EE2DDCF7D100C36D74 /* Frame24.swift */,
+				89D214F02DDCF80F00C36D74 /* Frame25.swift */,
+				89D214F22DDCF83800C36D74 /* Frame26.swift */,
+				89D214F42DDCF8A300C36D74 /* Generalinformation.swift */,
+				89D214F62DDCF8E000C36D74 /* LinkListView.swift */,
+				89D214F82DDCF92800C36D74 /* LinkListView2.swift */,
+				89D214FA2DDCF95800C36D74 /* LinkListView3.swift */,
+				89D214FC2DDCF99F00C36D74 /* LogInView.swift */,
+				89D215002DDCFA8800C36D74 /* OxygenPulseIView1.swift */,
+				89D215022DDCFAC400C36D74 /* OxygenPulseView2.swift */,
+				89D215042DDCFB5D00C36D74 /* RecommendationsView.swift */,
+				89D215062DDCFBA500C36D74 /* RecommendationsView1.swift */,
+				89D215082DDCFBE300C36D74 /* RecommendationsView2.swift */,
+				89D2150C2DDCFC7500C36D74 /* RecommendationsView3.swift */,
+				89D2150E2DDCFCB600C36D74 /* RegistrationView.swift */,
+				89D215102DDCFD2F00C36D74 /* StartPageView.swift */,
+				89D215122DDCFD7000C36D74 /* SurveyView12.swift */,
+				89D215142DDCFDDB00C36D74 /* Survey3.swift */,
+				89D215162DDCFE3900C36D74 /* WelcomePage.swift */,
 				89D214742DDA1B8700C36D74 /* Assets.xcassets */,
 				89D214762DDA1B8700C36D74 /* Preview Content */,
+				89D214D82DDCF1CA00C36D74 /* BloodPressureView1.swift */,
+				89D214DA2DDCF23B00C36D74 /* BloodPressureView2.swift */,
+				89D214DC2DDCF2AF00C36D74 /* BodyTempView1.swift */,
+				89D214DE2DDCF2F800C36D74 /* BodyTempView2.swift */,
+				89D214E02DDCF57F00C36D74 /* BodyWeightView1.swift */,
+				89D214E22DDCF5CC00C36D74 /* BodyWeightView2.swift */,
 			);
 			path = YandMios;
 			sourceTree = "<group>";
@@ -257,8 +347,38 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89D214D92DDCF1CA00C36D74 /* BloodPressureView1.swift in Sources */,
+				89D214DF2DDCF2F800C36D74 /* BodyTempView2.swift in Sources */,
+				89D214DD2DDCF2AF00C36D74 /* BodyTempView1.swift in Sources */,
+				89D2150F2DDCFCB600C36D74 /* RegistrationView.swift in Sources */,
+				89D214EB2DDCF75C00C36D74 /* Frame22.swift in Sources */,
+				89D214E72DDCF6EC00C36D74 /* FirebaseCode.swift in Sources */,
+				89D214EF2DDCF7D100C36D74 /* Frame24.swift in Sources */,
+				89D214FB2DDCF95800C36D74 /* LinkListView3.swift in Sources */,
+				89D215072DDCFBA500C36D74 /* RecommendationsView1.swift in Sources */,
+				89D214F72DDCF8E000C36D74 /* LinkListView.swift in Sources */,
+				89D215112DDCFD2F00C36D74 /* StartPageView.swift in Sources */,
+				89D214F92DDCF92800C36D74 /* LinkListView2.swift in Sources */,
+				89D214E92DDCF72A00C36D74 /* Frame21.swift in Sources */,
+				89D214E32DDCF5CC00C36D74 /* BodyWeightView2.swift in Sources */,
+				89D215092DDCFBE300C36D74 /* RecommendationsView2.swift in Sources */,
+				89D215132DDCFD7000C36D74 /* SurveyView12.swift in Sources */,
+				89D214DB2DDCF23B00C36D74 /* BloodPressureView2.swift in Sources */,
+				89D214E52DDCF69500C36D74 /* FillingInformationView1.swift in Sources */,
+				89D215032DDCFAC400C36D74 /* OxygenPulseView2.swift in Sources */,
+				89D215152DDCFDDB00C36D74 /* Survey3.swift in Sources */,
 				89D214732DDA1B8500C36D74 /* ContentView.swift in Sources */,
+				89D215172DDCFE3900C36D74 /* WelcomePage.swift in Sources */,
+				89D214F32DDCF83800C36D74 /* Frame26.swift in Sources */,
+				89D214FD2DDCF99F00C36D74 /* LogInView.swift in Sources */,
+				89D214ED2DDCF79200C36D74 /* Frame23.swift in Sources */,
+				89D214F12DDCF80F00C36D74 /* Frame25.swift in Sources */,
+				89D215012DDCFA8800C36D74 /* OxygenPulseIView1.swift in Sources */,
+				89D214E12DDCF57F00C36D74 /* BodyWeightView1.swift in Sources */,
+				89D2150D2DDCFC7500C36D74 /* RecommendationsView3.swift in Sources */,
 				89D214712DDA1B8500C36D74 /* YandMiosApp.swift in Sources */,
+				89D214F52DDCF8A300C36D74 /* Generalinformation.swift in Sources */,
+				89D215052DDCFB5D00C36D74 /* RecommendationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
